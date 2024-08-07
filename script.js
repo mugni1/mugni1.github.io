@@ -48,3 +48,5 @@ window.onscroll = function () {
     // back_top.classList.remove("show");
   }
 };
+
+const btn_submit = document.getElementById("btn_submit");
