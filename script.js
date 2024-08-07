@@ -50,3 +50,7 @@ window.onscroll = function () {
 };
 
 const btn_submit = document.getElementById("btn_submit");
+
+btn_submit.addEventListener("click", function () {
+  alert("Berhasil mengim tanggapan");
+});
